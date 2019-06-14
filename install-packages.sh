@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# This package is for Admin-WorkStation Enviroment Setup to Enable Insert & Read Scripts to run.
 if [ $EUID != 0 ]; then
     sudo "$0" "$@"
     exit $?
