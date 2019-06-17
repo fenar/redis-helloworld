@@ -15,5 +15,6 @@ and make sure you see PONG response. <br><br>
   -> Download tar file for matching operating system from https://app.redislabs.com/#/rlec-downloads and put in to same folder. <br>
   -> Use install-redise-replica.sh to install and configure your replica instance. Once installation completes go to http://local-ip:8443 to create the redisdb and select remote replication with redis://ip-of-redis-osserver:6379 and initate replication. <br> <br>
 
+![Test Screen-shot](https://github.com/fenar/redis-helloworld/blob/master/redistest.png)
 
 
